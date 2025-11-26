@@ -2,6 +2,7 @@ title: Kartikeya Saraswat
 logo: /assets/kartik.jpg
 #description: text below image
 show_downloads: true
-remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
-plugins:
-- jekyll-remote-theme 
+theme: jekyll-theme-minimal
+# remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+# plugins:
+# - jekyll-remote-theme 
