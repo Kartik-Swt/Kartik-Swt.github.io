@@ -1,3 +1,3 @@
-#**Research Scholar**
+# **Research Scholar**
 
-##Technical Skills: Python, 
+## Technical Skills: Python, 
