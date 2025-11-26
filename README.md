@@ -10,5 +10,14 @@
 
 ## Projects
 
+### Code-mixed Machine Translation Framework for Hinglish
+
+### Engagement Prediction of Short Videos on Social Media Using Decision Trees
+
+### Video Classification using Timesformer and Parameter Efficient Fine-tuning
+
+
+
+
 
 ## Publications
